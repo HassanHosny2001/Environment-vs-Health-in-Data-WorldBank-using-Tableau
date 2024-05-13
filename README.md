@@ -57,7 +57,3 @@ We explore questions like:
 ### Trend in Maternal Mortality Rate Across Countries and Time
 - What is the trend in maternal mortality rate across different countries and over time?
   ![image](snapshots/10.png)
-
-### Life Expectancy vs Access to Clean Fuels and Technologies for Cooking
-- Does access to clean fuels and technologies for cooking correlate with life expectancy across different regions and countries?
-![image](snapshots/11.png)
