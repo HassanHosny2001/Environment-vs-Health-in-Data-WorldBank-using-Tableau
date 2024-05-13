@@ -60,4 +60,4 @@ We explore questions like:
 
 ### Life Expectancy vs Access to Clean Fuels and Technologies for Cooking
 - Does access to clean fuels and technologies for cooking correlate with life expectancy across different regions and countries?
-  ![image](snapshots/11.png)
+![image](snapshots/11.png)
